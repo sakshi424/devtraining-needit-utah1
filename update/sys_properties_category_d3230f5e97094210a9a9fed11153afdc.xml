@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 11:31:55</sys_created_on>
+        <sys_id>d3230f5e97094210a9a9fed11153afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_d3230f5e97094210a9a9fed11153afdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 11:31:55</sys_updated_on>
+        <title><![CDATA[<p><em><img title="Cat image" src="https://www.bing.com/images/search?view&#61;detailV2&amp;ccid&#61;Gh8QtnFE&amp;id&#61;F1CA711D88126235500271596EE6055518E3A261&amp;thid&#61;OIP.Gh8QtnFEh8LOj1a6-Q88FQHaFj&amp;mediaurl&#61;https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1a1f10b6714487c2ce8f56baf90f3c15%3frik%3dYaLjGFUF5m5ZcQ%26riu%3dhttp%253a%252f%252fupload.wikimedia.org%252fwikipedia%252fcommons%252f9%252f9b%252fPhoto_of_a_kitten.jpg%26ehk%3dD%252bCxp6dPLSkHfYa8JvraOQ0MScRDCwP95fuL7yMpZ7E%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&amp;exph&#61;2736&amp;expw&#61;3648&amp;q&#61;cat&#43;image&amp;simid&#61;608009293533245210&amp;FORM&#61;IRPRST&amp;ck&#61;B753396741B3B5062257622B33E10567&amp;selectedIndex&#61;0&amp;itb&#61;0" alt="Cat image" width="240" height="240" /></em></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=d3230f5e97094210a9a9fed11153afdc"/>
+</record_update>
